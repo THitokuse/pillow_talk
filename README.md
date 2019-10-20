@@ -13,6 +13,7 @@
 
 ### AWS Architecture
 
+![pillow_talk_architect](https://user-images.githubusercontent.com/45042275/67157090-123f6580-f362-11e9-94ab-1308ab8e8fc2.png)
 
 
 ### DB Architecture
